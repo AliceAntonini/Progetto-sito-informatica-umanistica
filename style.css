@@ -1,0 +1,591 @@
+.body-homesudime {
+	background-image: url(https://live.staticflickr.com/65535/50189587497_5d3d921dec_k.jpg); 
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.body-tuttiglialtri {
+	background-image: url(https://live.staticflickr.com/1768/41769773680_b792d1985a_k.jpg);
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.body-doc {
+  background-color: #F0F8FF;
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+}
+
+.divheader {
+  background-image: url(https://www.tecnofun.eu/wp-content);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #F0F8FF;
+  padding: 10px;
+  margin-top: -30px;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: 50px;
+}
+
+.divfooter {
+  font-family: 'Playfair Display', serif;
+  background-color: #F0F8FF;
+  display: block;
+  text-align: center;
+  padding: 50px;
+  padding-bottom: 180px;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -20px;
+}
+
+.adiv {
+  float: left;
+  font-size: 18px;
+
+}
+
+.divdocu {
+  float: right;
+  text-align: right;
+  font-size: 18px;
+}
+
+.adocu {
+  text-decoration: none;
+  float: right;
+  text-align: right;
+  font-size: 18px;
+}
+
+.adocu:link {
+  color: blue;
+}
+
+.adocu:visited {
+  color: purple;
+}
+
+.fa-brands fa-youtube {
+  width: 12%;
+  height: 12%;
+  color: black;
+}
+
+.afooter:link {
+  color: black;
+}
+
+.afooter:visited {
+  color: black;
+}
+
+.afooter:hover {
+  color: #1D1D1D;
+}
+
+nav {
+  margin-top: -50px;
+  background-color: #ADD8E6;
+  margin-right: -8px;
+  margin-left: -8px;
+}
+
+ul { 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+
+li {
+  float: left;
+  width: 244px;
+}
+
+li a {
+  font-family: 'Silkscreen', serif;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px 4px 16px 4px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #6495ED;
+}
+
+li a:active {
+  background-color: #6495ED;
+}
+
+<ul>
+  <li><a href="#index.html">HOME</a></li>
+  <li><a href="#lastoria.html">LA STORIA</a></li>
+  <li><a href="#lecolonnesonore.html">LE COLONNE SONORE</a></li>
+  <li><a href="#glieffettisonori.html">GLI EFFETTI SONORI</a></li>
+  <li><a href="#icompositori.html">I COMPOSITORI</a></li>
+  <li><a href="#chisono.html">CHI SONO</a></li>
+</ul>
+
+.lisenzaniente {
+	text-decoration: none;
+}
+
+.titoli {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+.sottotitolo {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 33px;
+  padding-top: 10px;
+}
+
+.homecit {
+	font-family: 'Playfair Display', serif;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #F0F8FF;
+  border-radius: 7px;
+  padding: 25px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.h3homepara {
+  font-family: 'Playfair Display', serif;
+  margin-left: 140px;
+  margin-right: 140px;
+  background-color: #F0F8FF;
+  border-radius: 7px;
+  padding: 25px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paralastoriaintroduzione {
+  font-family: 'Playfair Display', serif;
+  font-size: 21px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  background-color: #F0F8FF;
+  border-radius: 7px;
+  padding: 25px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.divlastoria1 {
+  padding: 35px;
+  background-color: #F0F8FF;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  position: relative;
+  border-radius: 7px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+/* .paraibit {
+  float: right;
+  font-family: 'Playfair Display', serif;
+  font-size: 10px;
+  margin-left: 900px;
+  margin-right: 30px;
+  background-color: #6495ED;
+ } */
+
+.fotolastoria1 {
+  float: left;
+  margin-left: 0px;
+  margin-right: 30px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  height: 31%;
+  width: 31%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.commodore64scrittafoto {
+  position: absolute;
+  bottom: 46px;
+  left: 35px;
+  font-size: 18px;
+  padding: 5px;
+  background-color: white;
+}
+
+.paralastoria1 {
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+}
+
+.divlastoria2 {
+  padding: 35px;
+  background-color: #F0F8FF;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 7px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.fotolastoria2 {
+  float: right;
+  margin-left: 30px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+  height: 24%;
+  width: 24%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paralastoria2 {
+  font-family: 'Playfair Display', serif;
+  text-align: right;
+}
+
+.divlastoria3 {
+  padding: 35px;
+  background-color: #F8F8FF;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 7px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.fotolastoria3 {
+  float: left;
+  margin-left: 0px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+  margin-top: 0px;
+  height: 17%;
+  width: 17%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paralastoria3 {
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+}
+
+.divlastoria4 {
+  padding: 35px;
+  background-color: #F0F8FF;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 7px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.fotolastoria4 {
+  float: right;
+  margin-left: 30px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  height: 31%;
+  width: 31%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paralastoria4 {
+  font-family: 'Playfair Display', serif;
+  text-align: right;
+}
+
+.divlastoria5 {
+  padding: 35px;
+  background-color: #F0F8FF;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 7px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.fotolastoria5 {
+  float: left;
+  margin-left: 0px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  height: 36%;
+  width: 36%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paralastoria5 {
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+}
+
+.divlastoria6 {
+  padding: 35px;
+  background-color: #F0F8FF;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 7px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.fotolastoria6 {
+  float: right;
+  margin-left: 30px;
+  margin-right: 0px;
+  margin-bottom: 30px;
+  height: 36%;
+  width: 36%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paralastoria6 {
+  font-family: 'Playfair Display', serif;
+  text-align: right;
+}
+
+#skills-section {
+text-align: center;
+margin-top: 50px;
+}
+
+.skill {
+  width: 28%;
+  display: inline-block;
+  margin: 2%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 40px;
+  background-color: #F0F8FF;
+  border-radius: 7px;
+  padding: 25px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+  font-family: 'Playfair Display', serif;
+}
+
+.paraicompositoriintroduzione {
+  font-family: 'Playfair Display', serif;
+  font-size: 21px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  background-color: #F0F8FF;
+  border-radius: 7px;
+  padding: 25px;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.sottointroduzione {
+  font-family: 'Playfair Display', serif;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-transform: uppercase;
+  color: white;
+}
+
+.fotoicompositori1 {
+  text-align: center;
+  height: 70%;
+  width: 70%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.paraicompositori1 {
+  font-family: 'Playfair Display', serif;
+}
+
+.fotoicompositori2 {
+  text-align: center;
+  height: 43%;
+  width: 43%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;\
+}
+
+.fotoicompositori3 {
+  text-align: center;
+  height: 61%;
+  width: 61%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;\
+}
+
+.fotoicompositori4 {
+  float: left;
+  margin-left: 0px;
+  margin-right: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 20%;
+  width: 20%;
+}
+
+.fotoicompositori5 {
+  text-align: center;
+  height: 68%;
+  width: 68%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.fotoicompositori6 {
+ text-align: center;
+  height: 67%;
+  width: 67%;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+}
+
+.sudimetesto {
+  font-family: 'Playfair Display', serif;
+  margin-left: 160px;
+  margin-right: 160px;
+  background-image: url();
+  background-color: white;
+  padding: 40px;
+  background-color: #F0F8FF;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+  border-radius: 5px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #F0F8FF;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  border: 4px solid blue;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+  background-color: #F0F8FF;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  position: relative;
+  border-radius: 6px;
+  background-color: #F0F8FF;
+  box-shadow: 0px 1px 12px 1px #1D1D1D;
+  font-family: 'Silkscreen', sans-serif;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+/* Place the timelime to the left */
+  .timeline::after {
+    left: 31px;
+  }
+
+/* Full-width containers */
+  .container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+/* Make sure that all arrows are pointing leftwards */
+  .container::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+/* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+    left: 15px;
+  }
+
+/* Make all right containers behave like the left ones */
+  .right {
+    left: 0%;
+  }
+
+.fotodoc {
+  width: 30px;
+  height: 30px;
+}
